@@ -73,6 +73,8 @@ Explique como o CPF irá aparecer no output, devemos jogar um joguinho? Ele é e
 
 - Salvar o CPF em uma imagem
 - Salvar o CPF em um arquivo 3d.
+- Salvar em um gráfico de linha/pizza.
+- Salvar em um arquivo de audio.
 - Salvar o CPF em um arquivo de string, esse arquivo de string passa por um exec, o exec também valida o CPF.
 - Salva em uma Blockchain
 - Cria um modelo de IA, treina para que no output ele acerte o CPF salvo.
