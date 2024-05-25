@@ -76,3 +76,4 @@ Explique como o CPF irá aparecer no output, devemos jogar um joguinho? Ele é e
 - Salvar o CPF em um arquivo de string, esse arquivo de string passa por um exec, o exec também valida o CPF.
 - Salva em uma Blockchain
 - Cria um modelo de IA, treina para que no output ele acerte o CPF salvo.
+- Salvar em um banco de dados, onde você relaciona cada número do CPF a uma tabela diferente.
